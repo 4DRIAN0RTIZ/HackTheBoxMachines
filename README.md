@@ -8,6 +8,8 @@ Este repositorio contiene notas detalladas sobre cómo completar las máquinas M
 - `Fawn/`: Contiene las notas sobre la máquina Fawn.
 - `Redeemer/`: Contiene las notas sobre la máquina Redeemer.
 - `Dancing/`: Contiene las notas sobre la máquina Dancing.
+- `Appointment/`: Contiene las notas sobre la máquina Appointment.
+- `Sequel/`: Contiene las notas sobre la máquina Sequel.
 
 ## Requisitos
 
